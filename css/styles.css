@@ -1,8 +1,14 @@
 img {
   float: right;
+  padding-right: 300px ;
 }
 
 .left {
   float: left;
   background-color: blue;
+  padding-left: 75px;
+}
+
+body {
+  background-color: rgb(61, 7, 110);
 }
